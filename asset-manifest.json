@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/springreact/static/css/main.305d5edc.css",
+    "main.js": "/springreact/static/js/main.c6a39e09.js",
+    "static/media/tokyo.jpg": "/springreact/static/media/tokyo.fb9394e179656f17e5e4.jpg",
+    "static/media/prague.jpg": "/springreact/static/media/prague.3b149aa16339fa9e6770.jpg",
+    "static/media/newyork.jpg": "/springreact/static/media/newyork.c7a0d46c5b25340da2ef.jpg",
+    "static/media/auckland.jpg": "/springreact/static/media/auckland.b6eac78fc24ff4629802.jpg",
+    "static/media/ostrava.jpg": "/springreact/static/media/ostrava.91926089b81dc9be0e50.jpg",
+    "static/media/losangeles.jpg": "/springreact/static/media/losangeles.45d15ff059b46e6b3880.jpg",
+    "index.html": "/springreact/index.html",
+    "main.305d5edc.css.map": "/springreact/static/css/main.305d5edc.css.map",
+    "main.c6a39e09.js.map": "/springreact/static/js/main.c6a39e09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.305d5edc.css",
+    "static/js/main.c6a39e09.js"
+  ]
+}
